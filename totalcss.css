@@ -1,0 +1,147 @@
+/*! CSS Used from: https://www.babygrok.ai/_next/static/css/84ef8ef1e44beaa4.css */
+*,:after,:before{box-sizing:border-box;border:0 solid #e5e7eb;}
+:after,:before{--tw-content:"";}
+body{margin:0;line-height:inherit;}
+h1,h2{font-size:inherit;font-weight:inherit;}
+a{color:inherit;text-decoration:inherit;}
+button{font-family:inherit;font-feature-settings:inherit;font-variation-settings:inherit;font-size:100%;font-weight:inherit;line-height:inherit;color:inherit;margin:0;padding:0;}
+button{text-transform:none;}
+button{-webkit-appearance:button;background-color:transparent;background-image:none;}
+h1,h2,p{margin:0;}
+ul{list-style:none;margin:0;padding:0;}
+button{cursor:pointer;}
+:disabled{cursor:default;}
+iframe,img,svg{display:block;vertical-align:middle;}
+img{max-width:100%;height:auto;}
+h1{font-size:1.875rem;line-height:2.25rem;font-weight:700;line-height:1.25;}
+@media (min-width:1024px){
+h1{font-size:3.75rem;line-height:1;}
+}
+h2{font-size:1.5rem;line-height:2rem;font-weight:700;line-height:1.25;}
+@media (min-width:1024px){
+h2{font-size:2.25rem;line-height:2.5rem;}
+}
+*,:after,:before{--tw-border-spacing-x:0;--tw-border-spacing-y:0;--tw-translate-x:0;--tw-translate-y:0;--tw-rotate:0;--tw-skew-x:0;--tw-skew-y:0;--tw-scale-x:1;--tw-scale-y:1;--tw-scroll-snap-strictness:proximity;--tw-ring-offset-width:0px;--tw-ring-offset-color:#fff;--tw-ring-color:rgba(59,130,246,.5);--tw-ring-offset-shadow:0 0 #0000;--tw-ring-shadow:0 0 #0000;--tw-shadow:0 0 #0000;--tw-shadow-colored:0 0 #0000;}
+.container{width:100%;}
+@media (min-width:640px){
+.container{max-width:640px;}
+}
+@media (min-width:768px){
+.container{max-width:768px;}
+}
+@media (min-width:1024px){
+.container{max-width:1024px;}
+}
+@media (min-width:1280px){
+.container{max-width:1280px;}
+}
+@media (min-width:1536px){
+.container{max-width:1536px;}
+}
+.relative{position:relative;}
+.m-auto{margin:auto;}
+.mx-auto{margin-left:auto;margin-right:auto;}
+.my-2{margin-top:.5rem;margin-bottom:.5rem;}
+.mt-12{margin-top:3rem;}
+.mt-16{margin-top:4rem;}
+.mt-3{margin-top:.75rem;}
+.mt-4{margin-top:1rem;}
+.mt-8{margin-top:2rem;}
+.block{display:block;}
+.flex{display:flex;}
+.grid{display:grid;}
+.hidden{display:none;}
+.h-2{height:.5rem;}
+.h-\[720px\]{height:720px;}
+.max-h-full{max-height:100%;}
+.min-h-\[400px\]{min-height:400px;}
+.w-12{width:3rem;}
+.w-2{width:.5rem;}
+.w-\[300px\]{width:300px;}
+.w-full{width:100%;}
+.max-w-\[1000px\]{max-width:1000px;}
+.max-w-\[1600px\]{max-width:1600px;}
+.max-w-\[600px\]{max-width:600px;}
+.max-w-\[800px\]{max-width:800px;}
+.max-w-\[900px\]{max-width:900px;}
+.max-w-full{max-width:100%;}
+.grid-cols-2{grid-template-columns:repeat(2,minmax(0,1fr));}
+.flex-wrap{flex-wrap:wrap;}
+.place-items-center{place-items:center;}
+.items-center{align-items:center;}
+.justify-center{justify-content:center;}
+.justify-between{justify-content:space-between;}
+.gap-16{gap:4rem;}
+.gap-2{gap:.5rem;}
+.gap-3{gap:.75rem;}
+.gap-6{gap:1.5rem;}
+.gap-8{gap:2rem;}
+.space-y-4>:not([hidden])~:not([hidden]){--tw-space-y-reverse:0;margin-top:calc(1rem * calc(1 - var(--tw-space-y-reverse)));margin-bottom:calc(1rem * var(--tw-space-y-reverse));}
+.overflow-hidden{overflow:hidden;}
+.rounded-2xl{border-radius:1rem;}
+.rounded-full{border-radius:9999px;}
+.bg-\[\#112535\]{--tw-bg-opacity:1;background-color:rgb(17 37 53/var(--tw-bg-opacity));}
+.bg-\[\#88FEFF\]{--tw-bg-opacity:1;background-color:rgb(136 254 255/var(--tw-bg-opacity));}
+.bg-white{--tw-bg-opacity:1;background-color:rgb(255 255 255/var(--tw-bg-opacity));}
+.bg-white\/20{background-color:hsla(0,0%,100%,.2);}
+.bg-\[url\(\/feature_bg\.png\)\]{background-image:url(https://www.babygrok.ai/feature_bg.png);}
+.bg-cover{background-size:cover;}
+.bg-no-repeat{background-repeat:no-repeat;}
+.p-0{padding:0;}
+.p-4{padding:1rem;}
+.px-3{padding-left:.75rem;padding-right:.75rem;}
+.px-6{padding-left:1.5rem;padding-right:1.5rem;}
+.px-8{padding-left:2rem;padding-right:2rem;}
+.py-16{padding-top:4rem;padding-bottom:4rem;}
+.py-2{padding-top:.5rem;padding-bottom:.5rem;}
+.py-24{padding-top:6rem;padding-bottom:6rem;}
+.py-6{padding-top:1.5rem;padding-bottom:1.5rem;}
+.py-8{padding-top:2rem;padding-bottom:2rem;}
+.pb-16{padding-bottom:4rem;}
+.pt-16{padding-top:4rem;}
+.text-center{text-align:center;}
+.text-2xl{font-size:1.5rem;line-height:2rem;}
+.text-4xl{font-size:2.25rem;line-height:2.5rem;}
+.text-lg{font-size:1.125rem;line-height:1.75rem;}
+.text-black{--tw-text-opacity:1;color:rgb(0 0 0/var(--tw-text-opacity));}
+.text-white{--tw-text-opacity:1;color:rgb(255 255 255/var(--tw-text-opacity));}
+.ring-1{--tw-ring-offset-shadow:var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);--tw-ring-shadow:var(--tw-ring-inset) 0 0 0 calc(1px + var(--tw-ring-offset-width)) var(--tw-ring-color);box-shadow:var(--tw-ring-offset-shadow),var(--tw-ring-shadow),var(--tw-shadow,0 0 #0000);}
+.ring-slate-700{--tw-ring-opacity:1;--tw-ring-color:rgb(51 65 85/var(--tw-ring-opacity));}
+.transition-colors{transition-property:color,background-color,border-color,text-decoration-color,fill,stroke;transition-timing-function:cubic-bezier(.4,0,.2,1);transition-duration:.15s;}
+.duration-300{transition-duration:.3s;}
+body{background-color:#fff;color:#fff;}
+.focus\:outline-none:focus{outline:2px solid transparent;outline-offset:2px;}
+@media (min-width:640px){
+.sm\:text-3xl{font-size:1.875rem;line-height:2.25rem;}
+}
+@media (min-width:768px){
+.md\:block{display:block;}
+.md\:hidden{display:none;}
+}
+@media (min-width:1024px){
+.lg\:mt-12{margin-top:3rem;}
+.lg\:w-\[400px\]{width:400px;}
+.lg\:w-\[500px\]{width:500px;}
+.lg\:grid-cols-2{grid-template-columns:repeat(2,minmax(0,1fr));}
+.lg\:grid-cols-3{grid-template-columns:repeat(3,minmax(0,1fr));}
+.lg\:grid-cols-4{grid-template-columns:repeat(4,minmax(0,1fr));}
+.lg\:gap-16{gap:4rem;}
+.lg\:px-12{padding-left:3rem;padding-right:3rem;}
+.lg\:py-24{padding-top:6rem;padding-bottom:6rem;}
+.lg\:py-8{padding-top:2rem;padding-bottom:2rem;}
+.lg\:pb-24{padding-bottom:6rem;}
+.lg\:pt-24{padding-top:6rem;}
+}
+/*! CSS Used from: https://www.babygrok.ai/_next/static/css/8eebd7bb6fc92c93.css */
+.__className_a438fb{font-family:__Syne_a438fb,__Syne_Fallback_a438fb;font-style:normal;}
+/*! CSS Used fontfaces */
+@font-face{font-family:__Syne_a438fb;font-style:normal;font-weight:400;font-display:swap;src:url(https://www.babygrok.ai/_next/static/media/10c4eb715c61a3e6-s.woff2) format("woff2");unicode-range:U+0370-03ff;}
+@font-face{font-family:__Syne_a438fb;font-style:normal;font-weight:400;font-display:swap;src:url(https://www.babygrok.ai/_next/static/media/5154c5c28c3353bb-s.woff2) format("woff2");unicode-range:U+0100-02af,U+0304,U+0308,U+0329,U+1e00-1e9f,U+1ef2-1eff,U+2020,U+20a0-20ab,U+20ad-20cf,U+2113,U+2c60-2c7f,U+a720-a7ff;}
+@font-face{font-family:__Syne_a438fb;font-style:normal;font-weight:400;font-display:swap;src:url(https://www.babygrok.ai/_next/static/media/0acf7bf726cd1ef0-s.p.woff2) format("woff2");unicode-range:U+00??,U+0131,U+0152-0153,U+02bb-02bc,U+02c6,U+02da,U+02dc,U+0304,U+0308,U+0329,U+2000-206f,U+2074,U+20ac,U+2122,U+2191,U+2193,U+2212,U+2215,U+feff,U+fffd;}
+@font-face{font-family:__Syne_a438fb;font-style:normal;font-weight:600;font-display:swap;src:url(https://www.babygrok.ai/_next/static/media/10c4eb715c61a3e6-s.woff2) format("woff2");unicode-range:U+0370-03ff;}
+@font-face{font-family:__Syne_a438fb;font-style:normal;font-weight:600;font-display:swap;src:url(https://www.babygrok.ai/_next/static/media/5154c5c28c3353bb-s.woff2) format("woff2");unicode-range:U+0100-02af,U+0304,U+0308,U+0329,U+1e00-1e9f,U+1ef2-1eff,U+2020,U+20a0-20ab,U+20ad-20cf,U+2113,U+2c60-2c7f,U+a720-a7ff;}
+@font-face{font-family:__Syne_a438fb;font-style:normal;font-weight:600;font-display:swap;src:url(https://www.babygrok.ai/_next/static/media/0acf7bf726cd1ef0-s.p.woff2) format("woff2");unicode-range:U+00??,U+0131,U+0152-0153,U+02bb-02bc,U+02c6,U+02da,U+02dc,U+0304,U+0308,U+0329,U+2000-206f,U+2074,U+20ac,U+2122,U+2191,U+2193,U+2212,U+2215,U+feff,U+fffd;}
+@font-face{font-family:__Syne_a438fb;font-style:normal;font-weight:700;font-display:swap;src:url(https://www.babygrok.ai/_next/static/media/10c4eb715c61a3e6-s.woff2) format("woff2");unicode-range:U+0370-03ff;}
+@font-face{font-family:__Syne_a438fb;font-style:normal;font-weight:700;font-display:swap;src:url(https://www.babygrok.ai/_next/static/media/5154c5c28c3353bb-s.woff2) format("woff2");unicode-range:U+0100-02af,U+0304,U+0308,U+0329,U+1e00-1e9f,U+1ef2-1eff,U+2020,U+20a0-20ab,U+20ad-20cf,U+2113,U+2c60-2c7f,U+a720-a7ff;}
+@font-face{font-family:__Syne_a438fb;font-style:normal;font-weight:700;font-display:swap;src:url(https://www.babygrok.ai/_next/static/media/0acf7bf726cd1ef0-s.p.woff2) format("woff2");unicode-range:U+00??,U+0131,U+0152-0153,U+02bb-02bc,U+02c6,U+02da,U+02dc,U+0304,U+0308,U+0329,U+2000-206f,U+2074,U+20ac,U+2122,U+2191,U+2193,U+2212,U+2215,U+feff,U+fffd;}
+@font-face{font-family:__Syne_Fallback_a438fb;src:local("Arial");ascent-override:93.43%;descent-override:27.78%;line-gap-override:0.00%;size-adjust:99.00%;}
